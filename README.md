@@ -18,10 +18,10 @@ Keadaan terkini, dihitung oleh program: [docs/laporan.md](docs/laporan.md).
 bantuan AI atas literatur yang sudah dikenal, dan belum satu rujukan pun dicocokkan ke teks sumber
 atau nomor halamannya. Data buku baru dicocokkan sebagian: 7 dari 23 sumber dicocokkan ke halaman
 penerbit atau katalog pada 2026-11-10 (tiap catatan menyebut apa yang diperiksa), dan sisanya belum.
-KBBI daring resmi belum bisa diperiksa dari lingkungan penyusunan. Entri yang semua sumbernya sudah
-cocok katalog tampil "Sebagian terverifikasi": artinya bukunya benar ada dengan data itu, bukan
-bahwa isi entri sudah diperiksa. Kutipan langsung dilarang oleh validator sampai halamannya
-diperiksa. Mohon jangan mengutip kamus ini seolah isinya sudah diperiksa.
+Padanan di KBBI VI Daring baru diperiksa untuk 6 dari 30 entri (oleh Badar, 2026-11-10). Entri yang
+semua sumbernya sudah cocok katalog tampil "Sebagian terverifikasi": artinya bukunya benar ada
+dengan data itu, bukan bahwa isi entri sudah diperiksa. Kutipan langsung dilarang oleh validator
+sampai halamannya diperiksa. Mohon jangan mengutip kamus ini seolah isinya sudah diperiksa.
 
 ## Gagasan
 
@@ -113,8 +113,11 @@ Settings.
 - **Rujukan tanpa halaman.** Belum ada rujukan yang menyebut halaman. Data 16 sumber lain (termasuk
   jilid dan halaman artikel, serta penerjemah) berasal dari ingatan penyusun atau dari laporan
   pemeriksaan yang belum dibuka sendiri; tiap sumber menyebut asal datanya di kolom `catatan`.
-- **KBBI belum diperiksa.** Situs KBBI resmi tidak terjangkau dari lingkungan penyusunan. Satu
-  keterangan tentang makna "perangkat" diambil dari kbbi.web.id, sebuah cermin tidak resmi.
+- **KBBI baru sebagian diperiksa.** Enam kata sudah dicek di KBBI VI Daring resmi
+  (kbbi.kemendikdasmen.go.id) dan tiap entrinya menyimpan tautan serta tanggalnya; dua di antaranya
+  (afordansi, konvivialitas) memang tidak tercatat. Sisanya belum, dan ada yang perlu dicek bukan
+  hanya kata dasarnya tetapi juga frasanya. Hasil pemeriksaan KBBI datang dari tangkapan layar
+  Badar; saya tidak bisa membuka situs itu dari lingkungan penyusunan.
 - **Hanya 30 entri, dan satu sudut pandang.** Pilihan istilah condong ke tradisi Heidegger,
   Borgmann, dan studi sains-teknologi. Tradisi lain, termasuk pemikiran dari Asia dan Islam, belum
   tercakup.

@@ -321,10 +321,14 @@ export function validasiEntri(data: Mentah, namaBerkas: string): Hasil<Entri> {
   if (kbbiMentah) {
     const tk = `${tempat} [kbbi]`;
     const bk = new Pembaca(kbbiMentah, tk, galat);
-    bk.tolakAsing(["lema", "status", "diperiksa"]);
+    bk.tolakAsing(["lema", "status", "diperiksa", "bukti"]);
     const lema = bk.teks("lema");
     const status = bk.pilihan("status", STATUS_KBBI);
     const diperiksa = bk.tanggal("diperiksa", false);
+    const bukti = bk.teks("bukti", false);
+    if (bukti !== undefined && !bukti.startsWith("https://")) {
+      galat.push(`${tk}: 'bukti' harus tautan https`);
+    }
     if (status !== undefined && status !== "belum" && diperiksa === undefined) {
       galat.push(`${tk}: status '${status}' wajib punya tanggal 'diperiksa'`);
     }
@@ -332,7 +336,7 @@ export function validasiEntri(data: Mentah, namaBerkas: string): Hasil<Entri> {
       galat.push(`${tk}: status 'belum' tidak boleh punya tanggal 'diperiksa'`);
     }
     if (lema !== undefined && status !== undefined) {
-      kbbi = buangKosong({ lema, status, diperiksa }) as unknown as Kbbi;
+      kbbi = buangKosong({ lema, status, diperiksa, bukti }) as unknown as Kbbi;
     }
   }
 

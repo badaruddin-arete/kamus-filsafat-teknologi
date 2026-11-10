@@ -19,4 +19,6 @@ status = "belum"
 
 [kbbi]
 lema = "otonom"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-10"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/otonom"

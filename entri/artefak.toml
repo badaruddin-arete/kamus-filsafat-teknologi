@@ -3,7 +3,7 @@ istilah = "artefak"
 asal = { istilah = "artifact", bahasa = "en" }
 definisi = "Benda buatan manusia. Dalam Winner, benda buatan bisa memuat tatanan sosial dan kekuasaan melalui rancangan atau susunannya, sehingga tidak boleh dipandang netral."
 alasan = "\"Artefak\" adalah serapan yang sudah dipakai di arkeologi dan antropologi, sehingga pembaca mengenalinya sebagai benda hasil buatan."
-yang_hilang = "Di Indonesia \"artefak\" sangat berbau arkeologi, yaitu peninggalan masa lalu. Benda buatan masa kini seperti jembatan layang atau aplikasi jarang disebut artefak sehari-hari, sehingga pemakaian Winner terasa asing."
+yang_hilang = "KBBI VI Daring (diperiksa 2026-11-10) mencatat dua makna: benda-benda yang menunjukkan kecakapan kerja manusia, terutama dari masa lalu, yang ditemukan lewat penggalian arkeologi; dan benda hasil kecerdasan manusia, seperti perkakas dan senjata. Makna kedua cukup dekat dengan pemakaian Winner, tetapi contohnya perkakas dan senjata, bukan jembatan, jalan layang, atau perangkat lunak, dan kesan benda lama tetap kuat."
 ditolak = [
   { padanan = "benda buatan", alasan = "Wajar, tetapi terlalu umum dan tidak membawa pemakaian istilah teknis." },
   { padanan = "produk", alasan = "Menggeser perhatian ke pasar, padahal yang dibahas adalah makna benda." },
@@ -20,4 +20,6 @@ status = "belum"
 
 [kbbi]
 lema = "artefak"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-10"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/artefak"

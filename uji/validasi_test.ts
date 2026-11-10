@@ -228,3 +228,15 @@ Deno.test("galat menyebut nama berkas supaya mudah dicari", () => {
   const g = validasiEntri(entriContoh({ istilah: 5 }), "contoh").galat;
   assertStringIncludes(g[0], "entri/contoh.toml");
 });
+
+Deno.test("bukti KBBI harus tautan https", () => {
+  satuGalat(
+    validasiEntri(
+      entriContoh({
+        kbbi: { lema: "contoh", status: "ada", diperiksa: "2026-11-10", bukti: "http://x.id" },
+      }),
+      "contoh",
+    ).galat,
+    "tautan https",
+  );
+});

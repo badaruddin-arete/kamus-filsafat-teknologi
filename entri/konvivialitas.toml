@@ -2,7 +2,7 @@ id = "konvivialitas"
 istilah = "konvivialitas"
 asal = { istilah = "conviviality", bahasa = "en" }
 definisi = "Dalam Illich, sifat perkakas yang memberi orang kebebasan untuk bertindak, bukan menjadikan mereka tergantung pada lembaga dan ahli. Perkakas konvivial dapat dipakai siapa saja untuk tujuannya sendiri."
-alasan = "Serapan dipertahankan karena Illich memakai kata Latin yang jarang dan sengaja menghidupkannya, dan Indonesia tidak punya padanan satu kata."
+alasan = "Serapan dipertahankan karena Illich memakai kata Latin yang jarang dan sengaja menghidupkannya, dan Indonesia tidak punya padanan satu kata. KBBI VI Daring belum mencatat kata ini (diperiksa 2026-11-10), sehingga ini serapan baru."
 yang_hilang = "\"Convivial\" berasal dari bahasa Latin convivium, jamuan bersama, yakni kebersamaan yang hangat. Indonesia tidak memiliki kata dengan gaung makan bersama sekaligus perkakas yang membebaskan."
 ditolak = [
   { padanan = "keramahan", alasan = "Terlalu bernada sopan santun." },
@@ -16,4 +16,6 @@ status = "belum"
 
 [kbbi]
 lema = "konvivialitas"
-status = "belum"
+status = "tidak-ada"
+diperiksa = "2026-11-10"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/konvivialitas"

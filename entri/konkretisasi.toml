@@ -3,7 +3,7 @@ istilah = "konkretisasi"
 asal = { istilah = "concrétisation", bahasa = "fr" }
 definisi = "Dalam Simondon, proses ketika sebuah benda teknis berkembang dari bagian-bagian yang terpisah dan saling mengganggu menjadi satu kesatuan yang saling menopang. Benda teknis memiliki cara berada yang bisa dipelajari terpisah dari penggunanya."
 alasan = "Serapan \"konkretisasi\" dipertahankan karena Indonesia tidak punya kata lain yang membawa arti menjadi padat dan saling bertaut."
-yang_hilang = "Dalam Indonesia \"konkret\" berlawanan dengan abstrak; Simondon memakainya dalam arti teknis yang lain (menyatunya fungsi-fungsi), dan pembaca Indonesia cenderung menafsirkannya sebagai \"menjadi nyata\"."
+yang_hilang = "KBBI VI Daring (diperiksa 2026-11-10) mencatat \"konkretisasi\" sebagai perwujudan; makna Simondon, menyatunya fungsi-fungsi dalam benda teknis, tidak tercatat di sana. Dalam Indonesia \"konkret\" berlawanan dengan abstrak; Simondon memakainya dalam arti teknis yang lain (menyatunya fungsi-fungsi), dan pembaca Indonesia cenderung menafsirkannya sebagai \"menjadi nyata\"."
 ditolak = [
   { padanan = "pemadatan", alasan = "Tidak ada dasar pemakaian dan menyesatkan ke arah fisik." },
 ]
@@ -14,5 +14,7 @@ sumber = "simondon-1958"
 status = "belum"
 
 [kbbi]
-lema = "konkret"
-status = "belum"
+lema = "konkretisasi"
+status = "ada"
+diperiksa = "2026-11-10"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/konkretisasi"

@@ -95,6 +95,8 @@ export interface Kbbi {
   lema: string;
   status: StatusKbbi;
   diperiksa?: string;
+  /** Tautan halaman KBBI daring yang dibuka saat memeriksa. */
+  bukti?: string;
 }
 
 export interface Entri {
