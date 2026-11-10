@@ -18,10 +18,11 @@ Keadaan terkini, dihitung oleh program: [docs/laporan.md](docs/laporan.md).
 bantuan AI atas literatur yang sudah dikenal, dan belum satu rujukan pun dicocokkan ke teks sumber
 atau nomor halamannya. Data buku baru dicocokkan sebagian: 7 dari 23 sumber dicocokkan ke halaman
 penerbit atau katalog pada 2026-11-10 (tiap catatan menyebut apa yang diperiksa), dan sisanya belum.
-Padanan di KBBI VI Daring baru diperiksa untuk 6 dari 30 entri (oleh Badar, 2026-11-10). Entri yang
-semua sumbernya sudah cocok katalog tampil "Sebagian terverifikasi": artinya bukunya benar ada
-dengan data itu, bukan bahwa isi entri sudah diperiksa. Kutipan langsung dilarang oleh validator
-sampai halamannya diperiksa. Mohon jangan mengutip kamus ini seolah isinya sudah diperiksa.
+Semua 30 entri sudah dicek kata dasarnya di KBBI VI Daring (oleh Badar, 10 dan 11 November 2026);
+frasanya tidak dicek. Entri yang semua sumbernya sudah cocok katalog tampil "Sebagian
+terverifikasi": artinya bukunya benar ada dengan data itu, bukan bahwa isi entri sudah diperiksa.
+Kutipan langsung dilarang oleh validator sampai halamannya diperiksa. Mohon jangan mengutip kamus
+ini seolah isinya sudah diperiksa.
 
 ## Gagasan
 
@@ -113,11 +114,11 @@ Settings.
 - **Rujukan tanpa halaman.** Belum ada rujukan yang menyebut halaman. Data 16 sumber lain (termasuk
   jilid dan halaman artikel, serta penerjemah) berasal dari ingatan penyusun atau dari laporan
   pemeriksaan yang belum dibuka sendiri; tiap sumber menyebut asal datanya di kolom `catatan`.
-- **KBBI baru sebagian diperiksa.** Enam kata sudah dicek di KBBI VI Daring resmi
-  (kbbi.kemendikdasmen.go.id) dan tiap entrinya menyimpan tautan serta tanggalnya; dua di antaranya
-  (afordansi, konvivialitas) memang tidak tercatat. Sisanya belum, dan ada yang perlu dicek bukan
-  hanya kata dasarnya tetapi juga frasanya. Hasil pemeriksaan KBBI datang dari tangkapan layar
-  Badar; saya tidak bisa membuka situs itu dari lingkungan penyusunan.
+- **KBBI hanya dicek kata dasarnya.** Semua entri sudah punya tautan dan tanggal pemeriksaan di KBBI
+  VI Daring resmi (kbbi.kemendikdasmen.go.id), tetapi yang dicek kata dasarnya (misalnya "kotak"
+  untuk "kotak hitam"), bukan frasa lengkapnya. Dua kata, afordansi dan konvivialitas, memang tidak
+  tercatat. Hasilnya datang dari tangkapan layar Badar; saya tidak bisa membuka situs itu dari
+  lingkungan penyusunan, dan beberapa entri saya koreksi setelahnya.
 - **Hanya 30 entri, dan satu sudut pandang.** Pilihan istilah condong ke tradisi Heidegger,
   Borgmann, dan studi sains-teknologi. Tradisi lain, termasuk pemikiran dari Asia dan Islam, belum
   tercakup.

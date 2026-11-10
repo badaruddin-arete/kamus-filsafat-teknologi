@@ -3,7 +3,7 @@ istilah = "jaringan aktor"
 asal = { istilah = "actor-network", bahasa = "en" }
 definisi = "Dalam Latour, cara memandang masyarakat sebagai jaringan hubungan antara manusia dan bukan manusia yang sama-sama bertindak (aktan). Benda bukan latar bagi tindakan manusia; ia ikut menjadi pelaku."
 alasan = "\"Jaringan\" adalah serapan yang lazim, dan \"aktor\" dipertahankan karena Latour sengaja memakai kata yang biasa dikaitkan dengan manusia dan memperluasnya."
-yang_hilang = "Dalam Indonesia \"aktor\" hampir selalu berarti pemeran film atau orang yang bertindak. Latour justru ingin memasukkan benda, tetapi di sini kata itu menolak perluasan. Karena itu, penulis sering memakai \"aktan\" untuk yang bukan manusia."
+yang_hilang = "Dalam Indonesia \"aktor\" hampir selalu berarti pemeran film atau orang yang bertindak. Latour justru ingin memasukkan benda, tetapi di sini kata itu menolak perluasan. Karena itu, penulis sering memakai \"aktan\" untuk yang bukan manusia. KBBI VI Daring (diperiksa 2026-11-11) mencatat \"jaringan\" antara lain sebagai susunan sel dalam tubuh dan sebagai kelompok komputer yang terhubung; makna Latour, hubungan antarpelaku, tidak tercatat."
 ditolak = [
   { padanan = "jaringan pelaku", alasan = "Lebih dekat ke makna agen, tetapi \"pelaku\" mudah terbaca pelaku kejahatan." },
   { padanan = "teori aktor-jaringan", alasan = "Sering dipakai sebagai nama; yang dibahas di sini nama bidangnya, bukan teorinya." },
@@ -16,4 +16,6 @@ status = "belum"
 
 [kbbi]
 lema = "jaringan"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/jaringan"

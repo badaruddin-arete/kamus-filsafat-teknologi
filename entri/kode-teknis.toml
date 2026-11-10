@@ -3,7 +3,7 @@ istilah = "kode teknis"
 asal = { istilah = "technical code", bahasa = "en" }
 definisi = "Dalam Feenberg, aturan yang menerjemahkan tuntutan sosial, misalnya kepentingan, nilai, atau kekuasaan, menjadi spesifikasi rancangan. Karena kode itu bisa berubah, teknologi tidak bersifat tunggal atau tak terelakkan."
 alasan = "\"Kode\" dipertahankan karena Feenberg memakainya dalam arti aturan dan konvensi, bukan program."
-yang_hilang = "\"Kode\" di Indonesia sehari-hari bisa berarti sandi atau kode program. Pembaca mungkin mengira yang dimaksud adalah kode komputer, padahal yang dimaksud adalah aturan sosial yang tertanam dalam rancangan."
+yang_hilang = "KBBI VI Daring (diperiksa 2026-11-11) mencatat empat makna \"kode\": tanda yang disepakati untuk maksud tertentu (sandi); kumpulan peraturan yang bersistem; kumpulan prinsip yang bersistem; dan aturan transformasi data dalam komputer. Makna kedua dan ketiga cukup dekat dengan Feenberg, tetapi pembaca yang langsung memikirkan sandi atau kode program bisa salah paham bahwa yang dimaksud rahasia atau teknis semata."
 ditolak = [
   { padanan = "sandi teknis", alasan = "Mengesankan rahasia, padahal kode ini justru dapat dibaca dan diubah." },
 ]
@@ -15,4 +15,6 @@ status = "belum"
 
 [kbbi]
 lema = "kode"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/kode"

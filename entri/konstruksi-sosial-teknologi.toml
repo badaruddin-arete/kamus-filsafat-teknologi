@@ -3,7 +3,7 @@ istilah = "konstruksi sosial teknologi"
 asal = { istilah = "social construction of technology (SCOT)", bahasa = "en" }
 definisi = "Pendekatan Pinch dan Bijker yang memandang bentuk benda teknis sebagai hasil perundingan antara kelompok sosial yang punya pemaknaan berbeda, bukan hasil logika teknis yang tunggal."
 alasan = "\"Konstruksi sosial\" sudah dikenal dalam sosiologi Indonesia, dan \"teknologi\" melengkapinya."
-yang_hilang = "\"Konstruksi\" di Indonesia sangat dekat ke bangunan sipil; frasa ini bisa dibaca sebagai konstruksi bangunan."
+yang_hilang = "\"Konstruksi\" di Indonesia sangat dekat ke bangunan sipil; frasa ini bisa dibaca sebagai konstruksi bangunan. KBBI VI Daring (diperiksa 2026-11-11) mencatat \"konstruksi\" sebagai susunan suatu bangunan (jembatan, rumah) dan susunan kata, sehingga gaung bangunan memang ada."
 ditolak = [
   { padanan = "pembentukan sosial teknologi", alasan = "Lebih alami, tetapi kehilangan hubungan dengan tradisi konstruksionisme sosial." },
 ]
@@ -15,4 +15,6 @@ status = "belum"
 
 [kbbi]
 lema = "konstruksi"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/konstruksi"

@@ -21,7 +21,7 @@ Dibuat oleh `deno task laporan` dan diuji sama persis oleh `deno task uji`. Jang
 | Rujukan yang sudah punya nomor halaman | 0 |
 | Sumber yang datanya dicocokkan ke katalog penerbit | 7 dari 23 |
 | Sumber tanpa ISBN atau DOI | 4 |
-| Padanan yang sudah diperiksa di KBBI daring resmi | 6 dari 30 |
+| Padanan yang sudah diperiksa di KBBI daring resmi | 30 dari 30 |
 | Entri yang bersandar pada satu sumber saja | 22 |
 
 ## Bahasa asal istilah

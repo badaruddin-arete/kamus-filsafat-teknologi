@@ -2,7 +2,7 @@ id = "penyingkapan"
 istilah = "penyingkapan"
 asal = { istilah = "Entbergen / Unverborgenheit", bahasa = "de" }
 definisi = "Menurut Heidegger, hal membuat sesuatu tampil dari ketersembunyiannya. Teknik modern dan technē Yunani keduanya adalah cara menyingkap, hanya dengan sifat yang berbeda."
-alasan = "\"Singkap\" berarti membuka penutup, dan awalan \"un-\" pada \"Unverborgenheit\" (ketaksembunyian) memang berarti membuang penutup, sehingga \"penyingkapan\" lebih dekat daripada \"pengungkapan\"."
+alasan = "\"Singkap\" berarti membuka penutup, dan awalan \"un-\" pada \"Unverborgenheit\" (ketaksembunyian) memang berarti membuang penutup, sehingga \"penyingkapan\" lebih dekat daripada \"pengungkapan\". KBBI VI Daring (diperiksa 2026-11-11) mencatat \"singkap\" sebagai \"buka\"."
 yang_hilang = "Heidegger menghubungkan penyingkapan dengan kebenaran (alētheia, \"ketaksembunyian\"). Hubungan itu tidak terbaca dalam \"penyingkapan\"; Indonesia tidak punya kata yang sekaligus berarti kebenaran dan membuka penutup."
 ditolak = [
   { padanan = "pengungkapan", alasan = "Dalam Indonesia lebih dekat ke mengatakan atau mengemukakan, menempatkan tindakan pada pembicara, bukan pada hal yang tampil." },
@@ -16,4 +16,6 @@ status = "belum"
 
 [kbbi]
 lema = "singkap"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/singkap"

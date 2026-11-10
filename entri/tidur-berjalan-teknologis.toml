@@ -3,7 +3,7 @@ istilah = "tidur-berjalan teknologis"
 asal = { istilah = "technological somnambulism", bahasa = "en" }
 definisi = "Dalam Winner, sikap manusia yang menerima perangkat teknis dengan tidak sadar dan tidak menimbang akibatnya bagi cara hidup, seolah berjalan sambil tidur."
 alasan = "\"Tidur-berjalan\" adalah padanan umum untuk somnambulisme dan masih terdengar ganjil, dan itu memang maksudnya."
-yang_hilang = "Winner memakai kata ilmiah \"somnambulism\" agar terdengar seperti gejala kejiwaan; kata Indonesia yang sepadan tidak ada. \"Tidur-berjalan\" lebih mudah dibayangkan tetapi kurang berbau ilmiah."
+yang_hilang = "Winner memakai kata ilmiah \"somnambulism\" agar terdengar seperti gejala kejiwaan; kata Indonesia yang sepadan tidak ada. \"Tidur-berjalan\" lebih mudah dibayangkan tetapi kurang berbau ilmiah. KBBI VI Daring (diperiksa 2026-11-11) memuat kata \"tidur\"; frasa \"tidur-berjalan\" sendiri tidak diperiksa."
 ditolak = [
   { padanan = "somnambulisme teknologis", alasan = "Serapan yang sah, tetapi hampir tidak dikenal di Indonesia." },
 ]
@@ -15,4 +15,6 @@ status = "belum"
 
 [kbbi]
 lema = "tidur"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/tidur"

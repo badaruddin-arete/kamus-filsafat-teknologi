@@ -3,7 +3,7 @@ istilah = "dilema Collingridge"
 asal = { istilah = "Collingridge dilemma", bahasa = "en" }
 definisi = "Dalam Collingridge, kesulitan mengendalikan teknologi: pada tahap awal, dampaknya belum diketahui sehingga sulit menentukan pengendalian, dan pada tahap lanjut, dampaknya sudah jelas tetapi teknologinya sudah terlanjur tertanam sehingga sulit diubah."
 alasan = "Nama diri tidak diterjemahkan. \"Dilema\" sudah mapan dalam Indonesia."
-yang_hilang = "Nama diri tidak banyak kehilangan makna. Keterbatasannya ada pada isinya: contoh-contoh Collingridge berasal dari zamannya (buku terbit 1980), sehingga perlu dipindahkan dengan hati-hati ke keadaan sekarang."
+yang_hilang = "Nama diri tidak banyak kehilangan makna. Keterbatasannya ada pada isinya: contoh-contoh Collingridge berasal dari zamannya (buku terbit 1980), sehingga perlu dipindahkan dengan hati-hati ke keadaan sekarang. KBBI VI Daring (diperiksa 2026-11-11) mencatat \"dilema\" sebagai situasi sulit yang mengharuskan memilih antara dua kemungkinan yang sama-sama tidak menyenangkan; maknanya cocok dengan maksud Collingridge."
 terkait = ["teknologi-otonom", "tidur-berjalan-teknologis"]
 
 [[rujukan]]
@@ -12,4 +12,6 @@ status = "belum"
 
 [kbbi]
 lema = "dilema"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/dilema"

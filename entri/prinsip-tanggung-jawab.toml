@@ -3,7 +3,7 @@ istilah = "prinsip tanggung jawab"
 asal = { istilah = "Prinzip Verantwortung", bahasa = "de" }
 definisi = "Dalam Jonas, etika baru bagi peradaban teknologis: karena kemampuan manusia kini dapat merusak syarat hidup di bumi dalam jangka panjang, manusia bertanggung jawab atas akibat jauh dari tindakannya, termasuk bagi generasi mendatang."
 alasan = "\"Tanggung jawab\" adalah padanan Verantwortung yang sudah baku."
-yang_hilang = "Dalam Jerman \"Verantwortung\" memuat \"Antwort\" (jawaban): bertanggung jawab berarti dapat dimintai jawaban. Indonesia \"tanggung jawab\" memuat \"menanggung\", sehingga unsur menjawab hilang."
+yang_hilang = "Dalam Jerman \"Verantwortung\" memuat \"Antwort\" (jawaban): bertanggung jawab berarti dapat dimintai jawaban. Indonesia \"tanggung jawab\" memuat \"menanggung\", sehingga unsur menjawab hilang. KBBI VI Daring (diperiksa 2026-11-11) mencatat \"tanggung jawab\" sebagai keadaan wajib menanggung segala sesuatunya sehingga boleh dituntut atau dipersalahkan; nuansa menanggung dan dituntut lebih kuat daripada nuansa menjawab."
 ditolak = [
   { padanan = "asas akuntabilitas", alasan = "Menggeser ke birokrasi dan audit." },
 ]
@@ -15,4 +15,6 @@ status = "belum"
 
 [kbbi]
 lema = "tanggung jawab"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/tanggung%20jawab"

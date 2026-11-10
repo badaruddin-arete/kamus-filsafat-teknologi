@@ -3,7 +3,7 @@ istilah = "dunia kehidupan"
 asal = { istilah = "Lebenswelt / lifeworld", bahasa = "de" }
 definisi = "Dunia pengalaman sehari-hari yang melatari semua pengetahuan ilmiah. Ihde memakainya untuk bertanya bagaimana benda teknis mengubah cara dunia itu dialami."
 alasan = "\"Dunia kehidupan\" mengikuti penggunaan yang sudah ada dalam fenomenologi berbahasa Indonesia."
-yang_hilang = "Istilah ini berasal dari Husserl; kamus ini hanya mengikuti pemakaian Ihde dan tidak menelusuri perbedaannya dengan pemakaian Husserl."
+yang_hilang = "Istilah ini berasal dari Husserl; kamus ini hanya mengikuti pemakaian Ihde dan tidak menelusuri perbedaannya dengan pemakaian Husserl. KBBI VI Daring (diperiksa 2026-11-11) mencatat \"dunia\" juga sebagai lingkungan atau lapangan kehidupan, yang mendukung padanan ini."
 ditolak = [
   { padanan = "dunia hidup", alasan = "Lebih pendek tetapi kurang mapan." },
 ]
@@ -15,4 +15,6 @@ status = "belum"
 
 [kbbi]
 lema = "dunia"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/dunia"

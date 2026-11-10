@@ -3,7 +3,7 @@ istilah = "pembingkaian"
 asal = { istilah = "Gestell", bahasa = "de" }
 definisi = "Menurut Heidegger, cara menyingkap yang khas zaman modern: dunia dan manusia disingkapkan hanya sebagai sumber daya yang siap dipesan, diatur, dan dimanfaatkan. Gestell bukan alat atau mesin, melainkan cara dunia tampil."
 alasan = "\"Pembingkaian\" meniru pilihan \"Enframing\" pada terjemahan Lovitt dan menjaga bahwa Gestell melibatkan sesuatu yang dipasang untuk menahan dan membentuk pandangan. Ini usulan kamus, bukan padanan baku."
-yang_hilang = "Jerman \"Ge-stell\" mengumpulkan banyak kata stellen (menempatkan, menyajikan, memesan, menantang) dan juga rak atau rangka. Satu kata Indonesia tidak bisa membawa semuanya. \"Bingkai\" juga mengingatkan pada bingkai foto, yang membawa makna pandangan statis yang tidak dimaksud Heidegger."
+yang_hilang = "Jerman \"Ge-stell\" mengumpulkan banyak kata stellen (menempatkan, menyajikan, memesan, menantang) dan juga rak atau rangka. Satu kata Indonesia tidak bisa membawa semuanya. \"Bingkai\" juga mengingatkan pada bingkai foto, yang membawa makna pandangan statis yang tidak dimaksud Heidegger. KBBI VI Daring (diperiksa 2026-11-11) mencatat \"bingkai\" sebagai bilah yang dipasang di sekeliling benda, lis, atau rangka, yang memang membawa gambaran statis."
 ditolak = [
   { padanan = "kerangka", alasan = "Bersifat statis dan mudah tertukar dengan framework." },
   { padanan = "penempatan", alasan = "Kehilangan unsur menantang dan mengumpulkan." },
@@ -17,4 +17,6 @@ status = "belum"
 
 [kbbi]
 lema = "bingkai"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/bingkai"

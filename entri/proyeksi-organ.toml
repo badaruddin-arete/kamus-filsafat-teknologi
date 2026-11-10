@@ -3,7 +3,7 @@ istilah = "proyeksi organ"
 asal = { istilah = "Organprojektion", bahasa = "de" }
 definisi = "Dalam Kapp, gagasan bahwa alat dan mesin adalah proyeksi organ dan fungsi tubuh manusia ke luar, misalnya palu dari kepalan tangan dan telegraf dari saraf. Kapp sering dipandang sebagai salah satu yang pertama memakai istilah \"filsafat teknik\"."
 alasan = "\"Proyeksi\" adalah serapan yang sudah dikenal dalam psikologi dan geometri, dan maknanya \"melemparkan ke luar\" cocok."
-yang_hilang = "\"Proyeksi\" di Indonesia dikenal dari psikologi (memindahkan perasaan sendiri ke orang lain) dan statistik (perkiraan), sehingga makna Kapp yang lebih harfiah, melemparkan organ ke dalam benda, bisa tergeser."
+yang_hilang = "KBBI VI Daring (diperiksa 2026-11-11) mencatat tiga makna \"proyeksi\": gambar benda yang dibuat rata; perkiraan keadaan masa depan dari data sekarang; dan mekanisme pertahanan diri dalam psikologi. Makna Kapp, melemparkan organ ke dalam benda, tidak tercatat di sana, dan makna psikologi bisa menyesatkan."
 ditolak = [
   { padanan = "perpanjangan tubuh", alasan = "Lebih akrab, tetapi lebih ke McLuhan daripada Kapp." },
 ]
@@ -15,4 +15,6 @@ status = "belum"
 
 [kbbi]
 lema = "proyeksi"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/proyeksi"

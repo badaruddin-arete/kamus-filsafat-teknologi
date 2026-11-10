@@ -2,7 +2,7 @@ id = "pola-perangkat"
 istilah = "pola perangkat"
 asal = { istilah = "device paradigm", bahasa = "en" }
 definisi = "Kecenderungan cara hidup modern untuk menyajikan segala sesuatu sebagai komoditas yang tersedia dan menyembunyikan mesin yang memproduksinya. Menurut Borgmann, pola inilah, dan bukan perangkat tertentu, yang membentuk hidup kita."
-alasan = "\"Pola\" dipilih karena yang dimaksud adalah susunan yang berulang di banyak perangkat, bukan satu barang. Istilah ini dipakai juga di Alat atau Perangkat."
+alasan = "\"Pola\" dipilih karena yang dimaksud adalah susunan yang berulang di banyak perangkat, bukan satu barang. Istilah ini dipakai juga di Alat atau Perangkat. KBBI VI Daring (diperiksa 2026-11-11) mencatat \"pola\" juga sebagai sistem atau cara kerja (pola permainan, pola pemerintahan) dan bentuk yang tetap, sehingga pemakaian ini sudah dikenal."
 yang_hilang = "\"Paradigm\" dalam bahasa Inggris mengingatkan pada Kuhn dan membawa gaung kerangka berpikir. \"Pola\" lebih rendah hati dan lebih dekat ke pengamatan, tetapi gaung kerangka berpikir itu hilang."
 ditolak = [
   { padanan = "paradigma perangkat", alasan = "Terjemahan harfiah yang sah, tetapi \"paradigma\" di Indonesia sangat dipengaruhi pemakaian Kuhn dan membuat pembaca menduga yang dibicarakan adalah teori ilmiah." },
@@ -15,4 +15,6 @@ status = "belum"
 
 [kbbi]
 lema = "pola"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/pola"

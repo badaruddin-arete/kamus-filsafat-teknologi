@@ -3,7 +3,7 @@ istilah = "praktik fokal"
 asal = { istilah = "focal practice", bahasa = "en" }
 definisi = "Kegiatan yang sengaja dijaga dan diulang untuk menjaga hubungan dengan benda fokal, misalnya makan bersama secara teratur atau berlari. Praktik ini adalah tanggapan Borgmann atas pola perangkat: bukan menolak teknologi, melainkan menyisakan ruang bagi keterlibatan."
 alasan = "\"Praktik\" sudah mapan sebagai padanan practice dalam ilmu sosial berbahasa Indonesia. \"Fokal\" mengikuti keputusan pada entri benda fokal."
-yang_hilang = "Dalam bahasa Inggris \"practice\" bisa juga berarti latihan. Hubungan antara berlatih dan keterampilan, yang penting bagi Borgmann, tidak terbawa; \"praktik\" lebih condong ke kebiasaan sosial."
+yang_hilang = "KBBI VI Daring (diperiksa 2026-11-11) mencatat \"praktik\" sebagai pelaksanaan secara nyata apa yang disebut dalam teori, pelaksanaan pekerjaan (dokter, pengacara), dan perbuatan menerapkan teori. Jadi di telinga orang Indonesia \"praktik\" berlawanan dengan \"teori\", sedangkan \"practice\" pada Borgmann adalah kegiatan bersama yang dijaga dan diulang, dan dalam bahasa Inggris juga bisa berarti latihan. Gaung latihan dan kebiasaan bersama itu tidak terbawa."
 ditolak = [
   { padanan = "latihan fokal", alasan = "Hanya menangkap sisi pelatihan diri, tidak sisi bersama dan berulangnya sebuah kegiatan." },
 ]
@@ -15,4 +15,6 @@ status = "belum"
 
 [kbbi]
 lema = "praktik"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/praktik"

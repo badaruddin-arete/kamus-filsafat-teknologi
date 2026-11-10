@@ -3,7 +3,7 @@ istilah = "keramahan linguistik"
 asal = { istilah = "hospitalité langagière", bahasa = "fr" }
 definisi = "Dalam Ricoeur, sikap penerjemah yang menerima bahasa asing sebagai tamu: mengakui bahwa penerjemahan tidak pernah sempurna dan ada yang hilang, tanpa menyerah pada kesenjangan itu. Gagasan ini menjadi pegangan filsafat kamus ini."
 alasan = "\"Keramahan\" menjaga gambaran tamu dan tuan rumah. \"Linguistik\" dipertahankan agar jelas yang dimaksud adalah bahasa."
-yang_hilang = "Prancis \"hospitalité\" menunjuk ke etika menerima tamu asing, dan dalam Ricoeur dialihkan ke bahasa. \"Keramahan\" Indonesia menjaga gambaran itu, tetapi pemakaian untuk bahasa tergolong baru dan belum lazim."
+yang_hilang = "Prancis \"hospitalité\" menunjuk ke etika menerima tamu asing, dan dalam Ricoeur dialihkan ke bahasa. \"Keramahan\" Indonesia menjaga gambaran itu, tetapi pemakaian untuk bahasa tergolong baru dan belum lazim. KBBI VI Daring (diperiksa 2026-11-11) mencatat \"ramah\" sebagai baik hati dan manis tutur kata, aman bagi lingkungan, dan mudah digunakan; makna menerima tamu asing, yang dipakai Ricoeur, tidak tercatat."
 ditolak = [
   { padanan = "keramahtamahan berbahasa", alasan = "Lebih panjang dan terdengar seperti sopan santun berbicara." },
 ]
@@ -15,4 +15,6 @@ status = "belum"
 
 [kbbi]
 lema = "ramah"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/ramah"

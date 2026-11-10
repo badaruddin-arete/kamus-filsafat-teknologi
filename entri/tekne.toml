@@ -16,4 +16,6 @@ status = "belum"
 
 [kbbi]
 lema = "teknik"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/teknik"

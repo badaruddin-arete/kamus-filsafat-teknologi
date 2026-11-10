@@ -2,7 +2,7 @@ id = "keterlepasan"
 istilah = "keterlepasan"
 asal = { istilah = "Gelassenheit", bahasa = "de" }
 definisi = "Dalam Heidegger kemudian, sikap yang memungkinkan manusia memakai perangkat teknis tanpa dikuasai olehnya: berkata ya dan sekaligus tidak kepada dunia teknis. Heidegger memakainya sebagai jalan keluar dari cara pandang pembingkaian."
-alasan = "\"Keterlepasan\" menangkap sikap membiarkan dan tidak melekat, tanpa menolak teknologi. Ini usulan kamus."
+alasan = "\"Keterlepasan\" menangkap sikap membiarkan dan tidak melekat, tanpa menolak teknologi. Ini usulan kamus. KBBI VI Daring (diperiksa 2026-11-11) mencatat \"lepas\" antara lain sebagai bebas dari ikatan dan tidak ada sangkut pautnya lagi, yang dekat dengan sikap tidak melekat."
 yang_hilang = "Gelassenheit berakar dalam tradisi mistik Jerman, yaitu menyerahkan diri kepada Tuhan, dan Heidegger mengubahnya. Di Indonesia, kata yang paling dekat bernada religius atau pasrah, yang tidak dimaksud Heidegger."
 ditolak = [
   { padanan = "kepasrahan", alasan = "Dalam bahasa Indonesia sehari-hari condong ke menyerah dan fatalisme." },
@@ -16,4 +16,6 @@ status = "belum"
 
 [kbbi]
 lema = "lepas"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/lepas"

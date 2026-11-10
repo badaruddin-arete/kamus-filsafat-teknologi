@@ -3,7 +3,7 @@ istilah = "politik artefak"
 asal = { istilah = "artifacts have politics", bahasa = "en" }
 definisi = "Tesis Winner bahwa benda teknis bisa memuat bentuk kekuasaan dan tatanan sosial, baik lewat rancangan yang sengaja membatasi orang tertentu maupun lewat teknologi yang menuntut tatanan sosial tertentu agar bisa berjalan."
 alasan = "Dipilih ringkas dan mengikuti judul esai Winner. \"Politik\" dipertahankan karena yang dimaksud adalah hubungan kekuasaan, bukan partai."
-yang_hilang = "\"Politik\" di Indonesia sehari-hari condong ke partai dan pemilu. Kritik terhadap contoh Winner (Joerges) menunjukkan bahwa klaim tentang jembatan rendah di Long Island pun tidak bebas dari perdebatan; kamus ini hanya mencatatnya sebagai kritik yang perlu dibaca."
+yang_hilang = "KBBI VI Daring (diperiksa 2026-11-11) mencatat \"politik\" bukan hanya sebagai urusan pemerintahan negara, tetapi juga sebagai cara bertindak dalam menghadapi suatu masalah, atau kebijakan (misalnya politik dagang). Makna terakhir ini cukup dekat dengan pemakaian Winner, jadi kehilangannya lebih kecil daripada dugaan semula, meski kesan partai dan negara tetap kuat. Kritik Joerges menunjukkan bahwa klaim tentang jembatan rendah di Long Island pun tidak bebas dari perdebatan; kamus ini hanya mencatatnya."
 ditolak = [
   { padanan = "kekuasaan benda", alasan = "Terdengar seperti mistik, seolah benda berkehendak." },
   { padanan = "benda dan politik", alasan = "Menghilangkan klaim bahwa benda itu sendiri bermuatan politik." },
@@ -21,4 +21,6 @@ catatan = "Kritik atas Winner; perlu dibaca bersama esai aslinya."
 
 [kbbi]
 lema = "politik"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/politik"

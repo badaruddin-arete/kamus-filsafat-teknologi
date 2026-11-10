@@ -2,7 +2,7 @@ id = "benda-fokal"
 istilah = "benda fokal"
 asal = { istilah = "focal thing", bahasa = "en" }
 definisi = "Benda atau praktik yang menuntut keterlibatan tubuh dan keterampilan pelakunya, dan dengan itu mengumpulkan orang serta dunia di sekelilingnya. Contoh yang dipakai Borgmann antara lain perapian dan makan bersama."
-alasan = "\"Benda\" menjaga bahwa yang dimaksud punya wujud dan tempat, bukan sekadar gagasan. \"Fokal\" mempertahankan gambaran fokus, titik tempat hal-hal berkumpul, yang sudah akrab lewat kata \"fokus\"."
+alasan = "\"Benda\" menjaga bahwa yang dimaksud punya wujud dan tempat, bukan sekadar gagasan. \"Fokal\" mempertahankan gambaran fokus, titik tempat hal-hal berkumpul, yang sudah akrab lewat kata \"fokus\". KBBI VI Daring (diperiksa 2026-11-11) mencatat \"fokus\" sebagai titik tempat berkas cahaya mengumpul dan sebagai pusat, jadi gambaran titik kumpul sudah dikenal."
 yang_hilang = "Dalam bahasa Inggris, \"thing\" membawa gaung Heidegger tentang benda yang \"membendakan\" dunia. Kata \"benda\" dalam bahasa Indonesia sehari-hari lebih dekat ke barang, sehingga gaung itu nyaris hilang."
 ditolak = [
   { padanan = "benda pusat", alasan = "Terdengar seperti benda terpenting, padahal yang dimaksud adalah benda yang menjadi titik kumpul." },
@@ -17,4 +17,6 @@ catatan = "Gambaran umum dari seluruh buku; halaman belum dicari."
 
 [kbbi]
 lema = "fokus"
-status = "belum"
+status = "ada"
+diperiksa = "2026-11-11"
+bukti = "https://kbbi.kemendikdasmen.go.id/entri/fokus"
