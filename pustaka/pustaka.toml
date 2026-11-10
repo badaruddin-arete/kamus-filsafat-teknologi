@@ -1,0 +1,15 @@
+# Daftar pustaka. Status "belum" berarti data buku belum dicocokkan ke katalog
+# penerbit; "katalog" berarti sudah, dengan tautan bukti dan tanggal.
+
+[[sumber]]
+kunci = "borgmann-1984"
+penulis = ["Albert Borgmann"]
+tahun = 1984
+judul = "Technology and the Character of Contemporary Life: A Philosophical Inquiry"
+jenis = "buku"
+bahasa = "en"
+penerbit = "University of Chicago Press"
+kota = "Chicago"
+isbn = "978-0-226-16358-1"
+status = "belum"
+catatan = "ISBN ini nomor edisi elektronik dari etalase toko buku daring, belum dari halaman penerbit."
