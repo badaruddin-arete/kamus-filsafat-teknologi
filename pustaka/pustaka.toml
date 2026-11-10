@@ -13,3 +13,265 @@ kota = "Chicago"
 isbn = "978-0-226-16358-1"
 status = "belum"
 catatan = "ISBN ini nomor edisi elektronik dari etalase toko buku daring, belum dari halaman penerbit."
+
+[[sumber]]
+kunci = "heidegger-1977"
+penulis = ["Martin Heidegger"]
+tahun = 1977
+judul = "The Question Concerning Technology and Other Essays"
+jenis = "buku"
+bahasa = "en"
+penerjemah = ["William Lovitt"]
+penerbit = "Harper & Row"
+kota = "New York"
+terbit_asli = 1954
+status = "belum"
+catatan = "Esai \"Die Frage nach der Technik\" terbit pertama dalam bahasa Jerman pada 1954. Bahasa Inggris yang dirujuk adalah terjemahan Lovitt; halaman belum dicari."
+
+[[sumber]]
+kunci = "heidegger-1927"
+penulis = ["Martin Heidegger"]
+tahun = 1927
+judul = "Sein und Zeit"
+jenis = "buku"
+bahasa = "de"
+penerbit = "Max Niemeyer"
+kota = "Halle"
+status = "belum"
+catatan = "Edisi dan penomoran halaman yang dipakai belum ditentukan."
+
+[[sumber]]
+kunci = "heidegger-1966"
+penulis = ["Martin Heidegger"]
+tahun = 1966
+judul = "Discourse on Thinking"
+jenis = "buku"
+bahasa = "en"
+penerjemah = ["John M. Anderson", "E. Hans Freund"]
+penerbit = "Harper & Row"
+kota = "New York"
+terbit_asli = 1959
+status = "belum"
+catatan = "Terjemahan atas Gelassenheit (1959). Data penerjemah dan penerbit dari ingatan penyusun."
+
+[[sumber]]
+kunci = "ihde-1990"
+penulis = ["Don Ihde"]
+tahun = 1990
+judul = "Technology and the Lifeworld: From Garden to Earth"
+jenis = "buku"
+bahasa = "en"
+penerbit = "Indiana University Press"
+kota = "Bloomington"
+status = "belum"
+
+[[sumber]]
+kunci = "verbeek-2005"
+penulis = ["Peter-Paul Verbeek"]
+tahun = 2005
+judul = "What Things Do: Philosophical Reflections on Technology, Agency, and Design"
+jenis = "buku"
+bahasa = "en"
+penerjemah = ["Robert P. Crease"]
+penerbit = "Pennsylvania State University Press"
+kota = "University Park"
+status = "belum"
+
+[[sumber]]
+kunci = "feenberg-1999"
+penulis = ["Andrew Feenberg"]
+tahun = 1999
+judul = "Questioning Technology"
+jenis = "buku"
+bahasa = "en"
+penerbit = "Routledge"
+kota = "London"
+status = "belum"
+
+[[sumber]]
+kunci = "winner-1977"
+penulis = ["Langdon Winner"]
+tahun = 1977
+judul = "Autonomous Technology: Technics-out-of-Control as a Theme in Political Thought"
+jenis = "buku"
+bahasa = "en"
+penerbit = "MIT Press"
+kota = "Cambridge, MA"
+status = "belum"
+
+[[sumber]]
+kunci = "winner-1980"
+penulis = ["Langdon Winner"]
+tahun = 1980
+judul = "Do Artifacts Have Politics?"
+jenis = "artikel"
+bahasa = "en"
+wadah = "Daedalus"
+status = "belum"
+catatan = "Volume dan halaman sengaja dikosongkan karena belum dicocokkan."
+
+[[sumber]]
+kunci = "winner-1986"
+penulis = ["Langdon Winner"]
+tahun = 1986
+judul = "The Whale and the Reactor: A Search for Limits in an Age of High Technology"
+jenis = "buku"
+bahasa = "en"
+penerbit = "University of Chicago Press"
+kota = "Chicago"
+status = "belum"
+
+[[sumber]]
+kunci = "joerges-1999"
+penulis = ["Bernward Joerges"]
+tahun = 1999
+judul = "Do Politics Have Artefacts?"
+jenis = "artikel"
+bahasa = "en"
+wadah = "Social Studies of Science"
+jilid = "29"
+nomor = "3"
+status = "belum"
+catatan = "Jilid dan nomor dari ingatan penyusun, belum dicocokkan."
+
+[[sumber]]
+kunci = "gibson-1979"
+penulis = ["James J. Gibson"]
+tahun = 1979
+judul = "The Ecological Approach to Visual Perception"
+jenis = "buku"
+bahasa = "en"
+penerbit = "Houghton Mifflin"
+kota = "Boston"
+status = "belum"
+
+[[sumber]]
+kunci = "norman-1988"
+penulis = ["Donald A. Norman"]
+tahun = 1988
+judul = "The Psychology of Everyday Things"
+jenis = "buku"
+bahasa = "en"
+penerbit = "Basic Books"
+kota = "New York"
+status = "belum"
+catatan = "Edisi berikutnya berjudul The Design of Everyday Things."
+
+[[sumber]]
+kunci = "latour-1999"
+penulis = ["Bruno Latour"]
+tahun = 1999
+judul = "Pandora's Hope: Essays on the Reality of Science Studies"
+jenis = "buku"
+bahasa = "en"
+penerbit = "Harvard University Press"
+kota = "Cambridge, MA"
+status = "belum"
+
+[[sumber]]
+kunci = "latour-2005"
+penulis = ["Bruno Latour"]
+tahun = 2005
+judul = "Reassembling the Social: An Introduction to Actor-Network-Theory"
+jenis = "buku"
+bahasa = "en"
+penerbit = "Oxford University Press"
+kota = "Oxford"
+status = "belum"
+
+[[sumber]]
+kunci = "pinch-bijker-1984"
+penulis = ["Trevor J. Pinch", "Wiebe E. Bijker"]
+tahun = 1984
+judul = "The Social Construction of Facts and Artefacts: Or How the Sociology of Science and the Sociology of Technology Might Benefit Each Other"
+jenis = "artikel"
+bahasa = "en"
+wadah = "Social Studies of Science"
+jilid = "14"
+nomor = "3"
+halaman = "399-441"
+status = "belum"
+catatan = "Jilid, nomor, dan halaman dari ingatan penyusun, belum dicocokkan."
+
+[[sumber]]
+kunci = "collingridge-1980"
+penulis = ["David Collingridge"]
+tahun = 1980
+judul = "The Social Control of Technology"
+jenis = "buku"
+bahasa = "en"
+penerbit = "Frances Pinter"
+kota = "London"
+status = "belum"
+
+[[sumber]]
+kunci = "simondon-1958"
+penulis = ["Gilbert Simondon"]
+tahun = 1958
+judul = "Du mode d'existence des objets techniques"
+jenis = "buku"
+bahasa = "fr"
+penerbit = "Aubier"
+kota = "Paris"
+status = "belum"
+
+[[sumber]]
+kunci = "ellul-1964"
+penulis = ["Jacques Ellul"]
+tahun = 1964
+judul = "The Technological Society"
+jenis = "buku"
+bahasa = "en"
+penerjemah = ["John Wilkinson"]
+penerbit = "Alfred A. Knopf"
+kota = "New York"
+terbit_asli = 1954
+status = "belum"
+catatan = "Terjemahan atas La Technique ou l'enjeu du siècle (1954)."
+
+[[sumber]]
+kunci = "kapp-1877"
+penulis = ["Ernst Kapp"]
+tahun = 1877
+judul = "Grundlinien einer Philosophie der Technik"
+jenis = "buku"
+bahasa = "de"
+penerbit = "George Westermann"
+kota = "Braunschweig"
+status = "belum"
+
+[[sumber]]
+kunci = "illich-1973"
+penulis = ["Ivan Illich"]
+tahun = 1973
+judul = "Tools for Conviviality"
+jenis = "buku"
+bahasa = "en"
+penerbit = "Harper & Row"
+kota = "New York"
+status = "belum"
+
+[[sumber]]
+kunci = "jonas-1979"
+penulis = ["Hans Jonas"]
+tahun = 1979
+judul = "Das Prinzip Verantwortung: Versuch einer Ethik für die technologische Zivilisation"
+jenis = "buku"
+bahasa = "de"
+penerbit = "Insel"
+kota = "Frankfurt am Main"
+status = "belum"
+
+[[sumber]]
+kunci = "ricoeur-2006"
+penulis = ["Paul Ricoeur"]
+tahun = 2006
+judul = "On Translation"
+jenis = "buku"
+bahasa = "en"
+penerjemah = ["Eileen Brennan"]
+penerbit = "Routledge"
+kota = "London"
+terbit_asli = 2004
+status = "belum"
+catatan = "Terjemahan atas Sur la traduction (2004)."

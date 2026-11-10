@@ -1,0 +1,23 @@
+id = "afordansi"
+istilah = "afordansi"
+asal = { istilah = "affordance", bahasa = "en" }
+definisi = "Dalam Gibson, apa yang disediakan lingkungan bagi makhluk yang hidup di dalamnya, misalnya lantai yang menyediakan pijakan. Norman membawanya ke desain benda sehari-hari, yaitu petunjuk bahwa sebuah benda bisa dipakai dengan cara tertentu."
+alasan = "Dipertahankan sebagai serapan (\"afordansi\") karena Gibson sendiri menciptakan kata baru dari \"afford\", dan Indonesia tidak punya padanan yang netral."
+yang_hilang = "Kata kerja Inggris \"afford\" bermakna menyediakan dan juga mampu membeli. Padanan Indonesia yang tampak jelas, \"keterjangkauan\", berarti mampu dibeli dan akan menyesatkan. Penggunaan Gibson dan Norman sedikit berbeda, dan keduanya tidak bisa dipadukan dalam satu kata Indonesia."
+ditolak = [
+  { padanan = "keterjangkauan", alasan = "Dalam Indonesia berarti harga yang dapat dibayar. Kawan palsu." },
+  { padanan = "daya sedia", alasan = "Rekaan yang belum dikenal dan tidak menunjukkan hubungan dengan makhluk pemakainya." },
+]
+terkait = ["perantaraan", "kode-teknis"]
+
+[[rujukan]]
+sumber = "gibson-1979"
+status = "belum"
+
+[[rujukan]]
+sumber = "norman-1988"
+status = "belum"
+
+[kbbi]
+lema = "afordansi"
+status = "belum"

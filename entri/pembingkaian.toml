@@ -1,0 +1,20 @@
+id = "pembingkaian"
+istilah = "pembingkaian"
+asal = { istilah = "Gestell", bahasa = "de" }
+definisi = "Menurut Heidegger, cara menyingkap yang khas zaman modern: dunia dan manusia disingkapkan hanya sebagai sumber daya yang siap dipesan, diatur, dan dimanfaatkan. Gestell bukan alat atau mesin, melainkan cara dunia tampil."
+alasan = "\"Pembingkaian\" meniru pilihan \"Enframing\" pada terjemahan Lovitt dan menjaga bahwa Gestell melibatkan sesuatu yang dipasang untuk menahan dan membentuk pandangan. Ini usulan kamus, bukan padanan baku."
+yang_hilang = "Jerman \"Ge-stell\" mengumpulkan banyak kata stellen (menempatkan, menyajikan, memesan, menantang) dan juga rak atau rangka. Satu kata Indonesia tidak bisa membawa semuanya. \"Bingkai\" juga mengingatkan pada bingkai foto, yang membawa makna pandangan statis yang tidak dimaksud Heidegger."
+ditolak = [
+  { padanan = "kerangka", alasan = "Bersifat statis dan mudah tertukar dengan framework." },
+  { padanan = "penempatan", alasan = "Kehilangan unsur menantang dan mengumpulkan." },
+  { padanan = "gestell", alasan = "Dibiarkan tak diterjemahkan oleh beberapa penulis. Di kamus ini tetap tercatat sebagai istilah asal, tetapi sebagai istilah Indonesia ia menutup pintu bagi pembaca yang belum tahu bahasa Jerman." },
+]
+terkait = ["cadangan-siaga", "penyingkapan", "teknik", "keterlepasan"]
+
+[[rujukan]]
+sumber = "heidegger-1977"
+status = "belum"
+
+[kbbi]
+lema = "bingkai"
+status = "belum"

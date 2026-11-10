@@ -1,0 +1,19 @@
+id = "kelenturan-tafsir"
+istilah = "kelenturan tafsir"
+asal = { istilah = "interpretative flexibility", bahasa = "en" }
+definisi = "Dalam Pinch dan Bijker, hal bahwa satu benda teknis bisa dimaknai dan dinilai berbeda oleh kelompok sosial yang berbeda, sehingga tidak ada satu \"cara terbaik\" yang ditentukan oleh benda itu sendiri."
+alasan = "\"Kelenturan\" memuat gambaran sesuatu yang dapat dibengkokkan tetapi tetap berbentuk, lebih dekat daripada \"fleksibilitas\" yang bernada teknis."
+yang_hilang = "\"Interpretative\" mencakup tafsir dan makna. \"Tafsir\" di Indonesia berbau teks, terutama kitab suci, sehingga \"tafsir atas sebuah sepeda\" terdengar ganjil."
+ditolak = [
+  { padanan = "fleksibilitas interpretatif", alasan = "Serapan harfiah yang sah, tetapi kaku dan jarang dipakai." },
+  { padanan = "keluwesan makna", alasan = "Terlalu longgar." },
+]
+terkait = ["konstruksi-sosial-teknologi", "kode-teknis"]
+
+[[rujukan]]
+sumber = "pinch-bijker-1984"
+status = "belum"
+
+[kbbi]
+lema = "lentur"
+status = "belum"

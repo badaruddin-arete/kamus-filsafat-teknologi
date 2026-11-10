@@ -1,0 +1,18 @@
+id = "tidur-berjalan-teknologis"
+istilah = "tidur-berjalan teknologis"
+asal = { istilah = "technological somnambulism", bahasa = "en" }
+definisi = "Dalam Winner, sikap manusia yang menerima perangkat teknis dengan tidak sadar dan tidak menimbang akibatnya bagi cara hidup, seolah berjalan sambil tidur."
+alasan = "\"Tidur-berjalan\" adalah padanan umum untuk somnambulisme dan masih terdengar ganjil, dan itu memang maksudnya."
+yang_hilang = "Winner memakai kata ilmiah \"somnambulism\" agar terdengar seperti gejala kejiwaan; kata Indonesia yang sepadan tidak ada. \"Tidur-berjalan\" lebih mudah dibayangkan tetapi kurang berbau ilmiah."
+ditolak = [
+  { padanan = "somnambulisme teknologis", alasan = "Serapan yang sah, tetapi hampir tidak dikenal di Indonesia." },
+]
+terkait = ["teknologi-otonom", "dilema-collingridge"]
+
+[[rujukan]]
+sumber = "winner-1986"
+status = "belum"
+
+[kbbi]
+lema = "tidur"
+status = "belum"

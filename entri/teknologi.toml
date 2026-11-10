@@ -1,0 +1,22 @@
+id = "teknologi"
+istilah = "teknologi"
+asal = { istilah = "technology", bahasa = "en" }
+definisi = "Dalam pemakaian filsafat teknologi, kata ini sering dipakai longgar untuk benda teknis, cara kerjanya, dan pengetahuan di baliknya sekaligus. Winner menyoroti betapa kabur kata ini dan memakainya dalam arti yang luas."
+alasan = "Dipertahankan sebagai kata serapan yang sudah mapan. Entri ini terutama berfungsi mengingatkan bahwa \"teknologi\" dan \"teknik\" dipisah dalam sebagian tradisi, tetapi disamakan di Indonesia dan dalam bahasa Inggris."
+yang_hilang = "Bahasa Jerman dan Prancis memisahkan Technik atau technique dari Technologie; bahasa Inggris dan Indonesia cenderung memakai satu kata. Akibatnya, beberapa perdebatan Eropa tentang teknik sulit dialihkan tanpa catatan."
+ditolak = [
+  { padanan = "ilmu teknik", alasan = "Membatasi pada pengetahuan keinsinyuran dan menyingkirkan benda serta praktiknya." },
+]
+terkait = ["teknik", "artefak", "teknologi-otonom"]
+
+[[rujukan]]
+sumber = "winner-1977"
+status = "belum"
+
+[[rujukan]]
+sumber = "ihde-1990"
+status = "belum"
+
+[kbbi]
+lema = "teknologi"
+status = "belum"

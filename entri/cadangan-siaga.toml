@@ -1,0 +1,20 @@
+id = "cadangan-siaga"
+istilah = "cadangan siaga"
+asal = { istilah = "Bestand", bahasa = "de" }
+definisi = "Cara sesuatu hadir ketika dipandang oleh Gestell: bukan sebagai benda yang berdiri sendiri, tetapi sebagai persediaan yang menunggu untuk dipakai atau dipesan. Sungai menjadi sumber tenaga, hutan menjadi kayu, dan manusia menjadi sumber daya manusia."
+alasan = "\"Cadangan\" mengambil makna menyimpan untuk dipakai nanti, dan \"siaga\" memuat unsur berdiri dan menunggu dalam \"Bestand\" (\"standing-reserve\" pada terjemahan Lovitt)."
+yang_hilang = "Jerman \"Bestand\" memuat \"stehen\" (berdiri) yang kuat; \"siaga\" menangkapnya sebagian, tetapi kesan \"siap sedia\" dalam Indonesia lebih militer. Hubungan dengan Gegenstand (objek, \"yang berdiri berhadapan\") juga tidak terbawa."
+ditolak = [
+  { padanan = "persediaan", alasan = "Terlalu bernada ekonomi dan gudang, kehilangan unsur menunggu panggilan." },
+  { padanan = "stok", alasan = "Serapan yang terlalu komersial." },
+  { padanan = "sumber daya", alasan = "Sudah dipakai luas dan membuat pernyataan Heidegger terdengar biasa saja." },
+]
+terkait = ["pembingkaian", "penyingkapan"]
+
+[[rujukan]]
+sumber = "heidegger-1977"
+status = "belum"
+
+[kbbi]
+lema = "cadang"
+status = "belum"

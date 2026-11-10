@@ -1,0 +1,23 @@
+id = "perantaraan"
+istilah = "perantaraan"
+asal = { istilah = "mediation", bahasa = "en" }
+definisi = "Dalam Ihde dan Verbeek, hal bahwa teknologi tidak hanya dipakai manusia tetapi ikut membentuk cara manusia mengalami dunia dan bertindak di dalamnya. Kacamata dan termometer tidak netral; mereka menengahi hubungan manusia dengan dunia."
+alasan = "\"Perantaraan\" dipilih karena menonjolkan hal yang berada di tengah dan menyampaikan, tanpa membawa makna penyelesaian sengketa."
+yang_hilang = "Kata serapan \"mediasi\" di Indonesia sangat melekat pada penyelesaian perselisihan oleh pihak ketiga dalam konteks hukum, sehingga pemakaian Ihde terdengar aneh. \"Perantaraan\" juga bisa mengesankan sekadar saluran pasif, padahal Verbeek menekankan perantara ikut membentuk."
+ditolak = [
+  { padanan = "mediasi", alasan = "Dalam pemakaian hukum Indonesia sudah berarti penyelesaian sengketa; membawa konotasi yang tidak dimaksud." },
+  { padanan = "penengahan", alasan = "Sama dengan mediasi: condong ke melerai." },
+]
+terkait = ["siap-tangan", "dunia-kehidupan", "jaringan-aktor"]
+
+[[rujukan]]
+sumber = "ihde-1990"
+status = "belum"
+
+[[rujukan]]
+sumber = "verbeek-2005"
+status = "belum"
+
+[kbbi]
+lema = "perantara"
+status = "belum"

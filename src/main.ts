@@ -4,11 +4,16 @@
  *   deno task cek              periksa seluruh kamus; keluar dengan kode 1 bila ada galat
  *   deno task cari <kata>      cari entri menurut istilah Indonesia atau istilah asal
  *   deno task tampil <id>      tampilkan satu entri lengkap dengan status verifikasinya
+ *   deno task laporan          tulis docs/laporan.md
+ *   deno task bangun           bangun situs statis ke _site/
  */
 
 import { bacaKorpus, tingkatEntri, urutAbjad } from "./korpus.ts";
 import { BAHASA, type Entri, type Sumber } from "./jenis.ts";
 import { cari } from "./cari.ts";
+import { susunLaporan } from "./laporan.ts";
+import { susunSitus } from "./situs.ts";
+import { join } from "@std/path";
 
 const AKAR = new URL("..", import.meta.url).pathname;
 
@@ -18,6 +23,8 @@ Perintah:
   cek               periksa seluruh kamus
   cari <kata>       cari menurut istilah Indonesia atau istilah asal
   tampil <id>       tampilkan satu entri lengkap
+  laporan <berkas>  tulis laporan keadaan kamus
+  bangun <folder>   bangun situs statis
 `;
 
 export function rujukanTeks(s: Sumber, halaman?: string): string {
@@ -101,6 +108,19 @@ async function utama(args: string[]): Promise<number> {
       return 1;
     }
     console.log(tampilkan(e, korpus.pustaka));
+    return 0;
+  }
+
+  if (perintah === "laporan") {
+    await Deno.writeTextFile(join(AKAR, sisa[0] ?? "docs/laporan.md"), susunLaporan(korpus));
+    return 0;
+  }
+
+  if (perintah === "bangun") {
+    const folder = join(AKAR, sisa[0] ?? "_site");
+    await Deno.mkdir(folder, { recursive: true });
+    const tanggal = new Date().toISOString().slice(0, 10);
+    await Deno.writeTextFile(join(folder, "index.html"), susunSitus(korpus, tanggal));
     return 0;
   }
 

@@ -1,0 +1,23 @@
+id = "siap-tangan"
+istilah = "siap-tangan"
+asal = { istilah = "zuhanden", bahasa = "de" }
+definisi = "Cara perkakas hadir ketika dipakai tanpa dipikirkan, misalnya palu saat memalu. Hanya ketika palu rusak atau hilang, ia tampil sebagai benda yang dipandang (vorhanden). Heidegger memakainya dalam Sein und Zeit, dan kemudian dipakai Ihde untuk membahas relasi manusia dan teknologi."
+alasan = "\"Siap-tangan\" mengikuti \"zu-handen\" (\"di tangan\") secara harfiah dan tetap bernada praktis."
+yang_hilang = "\"Siap pakai\" yang lebih akrab sudah punya arti barang jadi dan produk instan, sehingga ironisnya menyerupai pola perangkat yang justru dikritik Borgmann."
+ditolak = [
+  { padanan = "siap pakai", alasan = "Di Indonesia berarti barang yang sudah jadi dan langsung digunakan; pemakaian Heidegger tidak tentang jadi atau tidaknya, melainkan tentang keterlibatan yang tidak terasa." },
+  { padanan = "terjangkau tangan", alasan = "Mengingatkan pada harga dan jarak, bukan cara hadir." },
+]
+terkait = ["perantaraan", "dunia-kehidupan", "perangkat"]
+
+[[rujukan]]
+sumber = "heidegger-1927"
+status = "belum"
+
+[[rujukan]]
+sumber = "ihde-1990"
+status = "belum"
+
+[kbbi]
+lema = "tangan"
+status = "belum"

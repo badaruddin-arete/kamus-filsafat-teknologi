@@ -1,0 +1,18 @@
+id = "praktik-fokal"
+istilah = "praktik fokal"
+asal = { istilah = "focal practice", bahasa = "en" }
+definisi = "Kegiatan yang sengaja dijaga dan diulang untuk menjaga hubungan dengan benda fokal, misalnya makan bersama secara teratur atau berlari. Praktik ini adalah tanggapan Borgmann atas pola perangkat: bukan menolak teknologi, melainkan menyisakan ruang bagi keterlibatan."
+alasan = "\"Praktik\" sudah mapan sebagai padanan practice dalam ilmu sosial berbahasa Indonesia. \"Fokal\" mengikuti keputusan pada entri benda fokal."
+yang_hilang = "Dalam bahasa Inggris \"practice\" bisa juga berarti latihan. Hubungan antara berlatih dan keterampilan, yang penting bagi Borgmann, tidak terbawa; \"praktik\" lebih condong ke kebiasaan sosial."
+ditolak = [
+  { padanan = "latihan fokal", alasan = "Hanya menangkap sisi pelatihan diri, tidak sisi bersama dan berulangnya sebuah kegiatan." },
+]
+terkait = ["benda-fokal", "pola-perangkat"]
+
+[[rujukan]]
+sumber = "borgmann-1984"
+status = "belum"
+
+[kbbi]
+lema = "praktik"
+status = "belum"

@@ -1,0 +1,22 @@
+id = "teknologi-otonom"
+istilah = "teknologi otonom"
+asal = { istilah = "autonomous technology", bahasa = "en" }
+definisi = "Gagasan, yang dibahas dan diuji Winner, bahwa teknologi berjalan menurut logikanya sendiri dan lepas dari kendali manusia. Winner tidak menerima gagasan ini begitu saja, tetapi menelusuri mengapa ia terus muncul."
+alasan = "\"Otonom\" adalah serapan lazim dan dipakai dalam judul buku Winner."
+yang_hilang = "Dalam bahasa Inggris \"autonomous\" mudah tertukar dengan \"automatic\"; dalam Indonesia \"otonom\" lebih dekat ke otonomi daerah, yaitu kewenangan mengatur diri sendiri, yang membawa gaung politik tak terduga."
+ditolak = [
+  { padanan = "teknologi mandiri", alasan = "Terdengar seperti dapat berdiri sendiri dalam arti positif, bahkan bangga." },
+]
+terkait = ["teknik", "dilema-collingridge", "tidur-berjalan-teknologis"]
+
+[[rujukan]]
+sumber = "winner-1977"
+status = "belum"
+
+[[rujukan]]
+sumber = "ellul-1964"
+status = "belum"
+
+[kbbi]
+lema = "otonom"
+status = "belum"

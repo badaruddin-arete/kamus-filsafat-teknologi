@@ -1,0 +1,19 @@
+id = "perangkat"
+istilah = "perangkat"
+asal = { istilah = "device", bahasa = "en" }
+definisi = "Cara menyajikan hasil, misalnya panas, cahaya, atau hiburan, yang serba tersedia dan tidak menuntut keterlibatan pemakainya, sambil menyembunyikan mesin di baliknya. Dalam Borgmann, perangkat adalah lawan benda fokal."
+alasan = "Dipilih karena dalam pemakaian sehari-hari \"perangkat\" sudah dipakai untuk benda teknis (perangkat lunak, perangkat keras), sehingga pembaca langsung menangkap bahwa yang dibahas adalah barang teknis yang tersedia bagi kita."
+yang_hilang = "Pada kbbi.web.id (cermin tidak resmi; halaman KBBI resmi belum bisa diperiksa), \"perangkat\" bermakna alat perlengkapan. Jadi di telinga orang Indonesia kata ini nyaris sama dengan \"alat\", padahal Borgmann memakai \"device\" justru untuk membedakannya dari alat yang menuntut keterampilan. Pembedaan itu tidak terbawa oleh kata ini; ia harus dijelaskan, tidak bisa dibaca dari katanya."
+ditolak = [
+  { padanan = "alat", alasan = "Dalam bahasa Indonesia \"alat\" netral dan dipakai untuk palu maupun mesin kopi. Memakainya untuk \"device\" menghapus pembedaan yang dibangun Borgmann." },
+  { padanan = "gawai", alasan = "Dalam pemakaian sekarang \"gawai\" menunjuk ponsel dan sejenisnya, terlalu sempit untuk pemanas ruangan atau penanak nasi." },
+]
+terkait = ["benda-fokal", "pola-perangkat", "siap-tangan"]
+
+[[rujukan]]
+sumber = "borgmann-1984"
+status = "belum"
+
+[kbbi]
+lema = "perangkat"
+status = "belum"

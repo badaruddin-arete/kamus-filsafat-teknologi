@@ -1,0 +1,23 @@
+id = "artefak"
+istilah = "artefak"
+asal = { istilah = "artifact", bahasa = "en" }
+definisi = "Benda buatan manusia. Dalam Winner, benda buatan bisa memuat tatanan sosial dan kekuasaan melalui rancangan atau susunannya, sehingga tidak boleh dipandang netral."
+alasan = "\"Artefak\" adalah serapan yang sudah dipakai di arkeologi dan antropologi, sehingga pembaca mengenalinya sebagai benda hasil buatan."
+yang_hilang = "Di Indonesia \"artefak\" sangat berbau arkeologi, yaitu peninggalan masa lalu. Benda buatan masa kini seperti jembatan layang atau aplikasi jarang disebut artefak sehari-hari, sehingga pemakaian Winner terasa asing."
+ditolak = [
+  { padanan = "benda buatan", alasan = "Wajar, tetapi terlalu umum dan tidak membawa pemakaian istilah teknis." },
+  { padanan = "produk", alasan = "Menggeser perhatian ke pasar, padahal yang dibahas adalah makna benda." },
+]
+terkait = ["politik-artefak", "teknologi", "kode-teknis"]
+
+[[rujukan]]
+sumber = "winner-1980"
+status = "belum"
+
+[[rujukan]]
+sumber = "verbeek-2005"
+status = "belum"
+
+[kbbi]
+lema = "artefak"
+status = "belum"

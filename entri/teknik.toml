@@ -1,0 +1,23 @@
+id = "teknik"
+istilah = "teknik"
+asal = { istilah = "Technik", bahasa = "de" }
+definisi = "Dalam tradisi Jerman dan Prancis, keseluruhan cara, perlengkapan, dan susunan yang dipakai manusia untuk menguasai keadaannya. Bagi Ellul (la technique), teknik adalah totalitas cara-cara yang rasional dan efisien yang menembus semua bidang hidup, bukan hanya mesin. Heidegger memakai Technik untuk wilayah yang kemudian ia coba pahami lewat Gestell."
+alasan = "\"Teknik\" dipertahankan karena sudah akrab dan kata ini memang dekat dengan etimologi Yunani technē. Perbedaan dengan teknologi dijaga: teknik adalah cara dan susunannya, teknologi adalah pembicaraan tentang atau kumpulan perangkatnya."
+yang_hilang = "Di Indonesia \"teknik\" sering berarti cara (teknik menulis) atau nama jurusan di perguruan tinggi, sehingga cakupan Ellul yang sangat luas, yang mencakup birokrasi dan propaganda, tidak terbayang dari katanya."
+ditolak = [
+  { padanan = "tata cara", alasan = "Menghilangkan hubungan dengan mesin dan perlengkapan." },
+  { padanan = "rekayasa", alasan = "Dalam bahasa Indonesia condong ke engineering, bukan ke seluruh cara hidup yang ditata secara efisien." },
+]
+terkait = ["teknologi", "tekne", "pembingkaian"]
+
+[[rujukan]]
+sumber = "ellul-1964"
+status = "belum"
+
+[[rujukan]]
+sumber = "heidegger-1977"
+status = "belum"
+
+[kbbi]
+lema = "teknik"
+status = "belum"

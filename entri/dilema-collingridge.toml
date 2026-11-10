@@ -1,0 +1,15 @@
+id = "dilema-collingridge"
+istilah = "dilema Collingridge"
+asal = { istilah = "Collingridge dilemma", bahasa = "en" }
+definisi = "Dalam Collingridge, kesulitan mengendalikan teknologi: pada tahap awal, dampaknya belum diketahui sehingga sulit menentukan pengendalian, dan pada tahap lanjut, dampaknya sudah jelas tetapi teknologinya sudah terlanjur tertanam sehingga sulit diubah."
+alasan = "Nama diri tidak diterjemahkan. \"Dilema\" sudah mapan dalam Indonesia."
+yang_hilang = "Nama diri tidak banyak kehilangan makna. Keterbatasannya ada pada isinya: contoh-contoh Collingridge berasal dari zamannya (buku terbit 1980), sehingga perlu dipindahkan dengan hati-hati ke keadaan sekarang."
+terkait = ["teknologi-otonom", "tidur-berjalan-teknologis"]
+
+[[rujukan]]
+sumber = "collingridge-1980"
+status = "belum"
+
+[kbbi]
+lema = "dilema"
+status = "belum"

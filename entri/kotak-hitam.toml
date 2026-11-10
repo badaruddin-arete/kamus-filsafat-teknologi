@@ -1,0 +1,19 @@
+id = "kotak-hitam"
+istilah = "kotak hitam"
+asal = { istilah = "black box", bahasa = "en" }
+definisi = "Dalam Latour, benda atau pengetahuan yang sudah begitu mapan sehingga orang hanya melihat masukan dan keluarannya dan tidak lagi mempertanyakan isinya. Ketika benda itu rusak, kotaknya terbuka dan kerumitannya tampak."
+alasan = "Dipertahankan sebagai padanan literal karena frasa ini sudah akrab."
+yang_hilang = "Di Indonesia \"kotak hitam\" paling dikenal sebagai perekam penerbangan, yang justru dibuka untuk mengetahui apa yang terjadi. Makna Latour adalah kebalikannya: kotak yang tidak dibuka. Pembaca mudah salah menafsirkan."
+ditolak = [
+  { padanan = "peti hitam", alasan = "Tidak lazim dan tidak membantu." },
+  { padanan = "kotak gelap", alasan = "Menghilangkan hubungan dengan istilah yang sudah dikenal." },
+]
+terkait = ["jaringan-aktor", "perangkat"]
+
+[[rujukan]]
+sumber = "latour-1999"
+status = "belum"
+
+[kbbi]
+lema = "kotak"
+status = "belum"

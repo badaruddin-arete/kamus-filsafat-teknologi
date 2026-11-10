@@ -1,0 +1,19 @@
+id = "tekne"
+istilah = "tekne"
+asal = { istilah = "τέχνη (technē)", bahasa = "el" }
+definisi = "Dalam pemikiran Yunani, pengetahuan dan keterampilan untuk membuat atau mengerjakan sesuatu dengan sadar. Heidegger menunjukkan bahwa technē bukan sekadar membuat, tetapi cara menyingkapkan."
+alasan = "Dipertahankan sebagai kata serapan karena tidak ada padanan Indonesia yang memuat keterampilan, pengetahuan, dan seni sekaligus. Ejaan \"tekne\" mengikuti kebiasaan menulis serapan tanpa tanda diakritik."
+yang_hilang = "\"Keterampilan\" menghilangkan unsur mengetahui; \"seni\" menghilangkan unsur membuat; \"kerajinan\" menurunkan derajatnya. Pembedaan modern antara seni dan kerajinan tidak ada dalam kata Yunani ini."
+ditolak = [
+  { padanan = "keterampilan", alasan = "Menekankan keterampilan tangan dan melupakan pengetahuan di dalam technē." },
+  { padanan = "seni", alasan = "Dalam bahasa Indonesia condong ke seni rupa dan pertunjukan." },
+]
+terkait = ["teknik", "penyingkapan", "pembingkaian"]
+
+[[rujukan]]
+sumber = "heidegger-1977"
+status = "belum"
+
+[kbbi]
+lema = "teknik"
+status = "belum"

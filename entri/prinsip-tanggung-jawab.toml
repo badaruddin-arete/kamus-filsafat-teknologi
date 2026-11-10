@@ -1,0 +1,18 @@
+id = "prinsip-tanggung-jawab"
+istilah = "prinsip tanggung jawab"
+asal = { istilah = "Prinzip Verantwortung", bahasa = "de" }
+definisi = "Dalam Jonas, etika baru bagi peradaban teknologis: karena kemampuan manusia kini dapat merusak syarat hidup di bumi dalam jangka panjang, manusia bertanggung jawab atas akibat jauh dari tindakannya, termasuk bagi generasi mendatang."
+alasan = "\"Tanggung jawab\" adalah padanan Verantwortung yang sudah baku."
+yang_hilang = "Dalam Jerman \"Verantwortung\" memuat \"Antwort\" (jawaban): bertanggung jawab berarti dapat dimintai jawaban. Indonesia \"tanggung jawab\" memuat \"menanggung\", sehingga unsur menjawab hilang."
+ditolak = [
+  { padanan = "asas akuntabilitas", alasan = "Menggeser ke birokrasi dan audit." },
+]
+terkait = ["dilema-collingridge", "teknologi-otonom"]
+
+[[rujukan]]
+sumber = "jonas-1979"
+status = "belum"
+
+[kbbi]
+lema = "tanggung jawab"
+status = "belum"
