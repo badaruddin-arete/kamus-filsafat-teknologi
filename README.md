@@ -16,10 +16,12 @@ Keadaan terkini, dihitung oleh program: [docs/laporan.md](docs/laporan.md).
 
 **Belum satu pun entri berstatus terverifikasi.** Semua entri disusun dari pemahaman penyusun dan
 bantuan AI atas literatur yang sudah dikenal, dan belum satu rujukan pun dicocokkan ke teks sumber
-atau nomor halamannya. Data buku (penerbit, kota, tahun) juga belum dicocokkan ke katalog penerbit,
-dan KBBI daring resmi belum bisa diperiksa dari lingkungan penyusunan. Karena itu setiap entri
-tampil dengan lencana "Belum terverifikasi", dan kutipan langsung dilarang oleh validator sampai
-halamannya diperiksa. Mohon jangan mengutip kamus ini seolah isinya sudah diperiksa.
+atau nomor halamannya. Data buku baru dicocokkan sebagian: 7 dari 23 sumber dicocokkan ke halaman
+penerbit atau katalog pada 2026-11-10 (tiap catatan menyebut apa yang diperiksa), dan sisanya belum.
+KBBI daring resmi belum bisa diperiksa dari lingkungan penyusunan. Entri yang semua sumbernya sudah
+cocok katalog tampil "Sebagian terverifikasi": artinya bukunya benar ada dengan data itu, bukan
+bahwa isi entri sudah diperiksa. Kutipan langsung dilarang oleh validator sampai halamannya
+diperiksa. Mohon jangan mengutip kamus ini seolah isinya sudah diperiksa.
 
 ## Gagasan
 
@@ -108,9 +110,9 @@ Settings.
 
 - **Tidak ada yang terverifikasi.** Lihat Peringatan lebih dulu. Ini keterbatasan terbesar, dan
   kamus ini sengaja tampil sebagai kerja yang belum selesai, bukan referensi yang sudah selesai.
-- **Rujukan tanpa halaman.** Belum ada rujukan yang menyebut halaman, dan beberapa data bibliografis
-  (jilid, halaman artikel, penerjemah) berasal dari ingatan, bukan dari katalog. Esai Winner (_Do
-  Artifacts Have Politics?_) sengaja dibiarkan tanpa jilid dan halaman.
+- **Rujukan tanpa halaman.** Belum ada rujukan yang menyebut halaman. Data 16 sumber lain (termasuk
+  jilid dan halaman artikel, serta penerjemah) berasal dari ingatan penyusun atau dari laporan
+  pemeriksaan yang belum dibuka sendiri; tiap sumber menyebut asal datanya di kolom `catatan`.
 - **KBBI belum diperiksa.** Situs KBBI resmi tidak terjangkau dari lingkungan penyusunan. Satu
   keterangan tentang makna "perangkat" diambil dari kbbi.web.id, sebuah cermin tidak resmi.
 - **Hanya 30 entri, dan satu sudut pandang.** Pilihan istilah condong ke tradisi Heidegger,

@@ -10,9 +10,11 @@ jenis = "buku"
 bahasa = "en"
 penerbit = "University of Chicago Press"
 kota = "Chicago"
-isbn = "978-0-226-16358-1"
-status = "belum"
-catatan = "ISBN ini nomor edisi elektronik dari etalase toko buku daring, belum dari halaman penerbit."
+isbn = "978-0-226-06628-8"
+status = "katalog"
+bukti = "https://archive.org/details/technologycharac0000borg"
+diperiksa = "2026-11-10"
+catatan = "Dicocokkan sendiri pada katalog Internet Archive (2026-11-10): judul, penerbit, kota, tahun, dan ISBN 0226066282. ISBN edisi elektronik 978-0-226-16358-1 dari etalase toko daring tidak dipakai."
 
 [[sumber]]
 kunci = "heidegger-1977"
@@ -24,9 +26,10 @@ bahasa = "en"
 penerjemah = ["William Lovitt"]
 penerbit = "Harper & Row"
 kota = "New York"
+isbn = "978-0-06-131969-3"
 terbit_asli = 1954
 status = "belum"
-catatan = "Esai \"Die Frage nach der Technik\" terbit pertama dalam bahasa Jerman pada 1954. Bahasa Inggris yang dirujuk adalah terjemahan Lovitt; halaman belum dicari."
+catatan = "Dilaporkan Badar pada 2026-11-10 dari hasil periksa yang asal pengecekannya belum dipastikan; halaman bukti belum saya buka sendiri atau tidak memuat data bibliografis. Esai Die Frage nach der Technik terbit pertama dalam bahasa Jerman pada 1954; yang dirujuk terjemahan Lovitt."
 
 [[sumber]]
 kunci = "heidegger-1927"
@@ -38,7 +41,7 @@ bahasa = "de"
 penerbit = "Max Niemeyer"
 kota = "Halle"
 status = "belum"
-catatan = "Edisi dan penomoran halaman yang dipakai belum ditentukan."
+catatan = "Dilaporkan Badar pada 2026-11-10 dari hasil periksa yang asal pengecekannya belum dipastikan; halaman bukti belum saya buka sendiri atau tidak memuat data bibliografis. Edisi asli 1927 tidak punya ISBN; edisi yang dipakai entri belum ditentukan."
 
 [[sumber]]
 kunci = "heidegger-1966"
@@ -50,9 +53,10 @@ bahasa = "en"
 penerjemah = ["John M. Anderson", "E. Hans Freund"]
 penerbit = "Harper & Row"
 kota = "New York"
+isbn = "978-0-06-090438-8"
 terbit_asli = 1959
 status = "belum"
-catatan = "Terjemahan atas Gelassenheit (1959). Data penerjemah dan penerbit dari ingatan penyusun."
+catatan = "Dilaporkan Badar pada 2026-11-10 dari hasil periksa yang asal pengecekannya belum dipastikan; halaman bukti belum saya buka sendiri atau tidak memuat data bibliografis. Terjemahan atas Gelassenheit (1959)."
 
 [[sumber]]
 kunci = "ihde-1990"
@@ -63,7 +67,9 @@ jenis = "buku"
 bahasa = "en"
 penerbit = "Indiana University Press"
 kota = "Bloomington"
+isbn = "978-0-253-20560-5"
 status = "belum"
+catatan = "Dilaporkan Badar pada 2026-11-10 dari hasil periksa yang asal pengecekannya belum dipastikan; halaman bukti belum saya buka sendiri atau tidak memuat data bibliografis. ISBN ini paperback."
 
 [[sumber]]
 kunci = "verbeek-2005"
@@ -75,7 +81,9 @@ bahasa = "en"
 penerjemah = ["Robert P. Crease"]
 penerbit = "Pennsylvania State University Press"
 kota = "University Park"
+isbn = "978-0-271-02540-7"
 status = "belum"
+catatan = "Dilaporkan Badar pada 2026-11-10 dari hasil periksa yang asal pengecekannya belum dipastikan; halaman bukti belum saya buka sendiri atau tidak memuat data bibliografis. ISBN ini paperback; hardcover 978-0-271-02539-1."
 
 [[sumber]]
 kunci = "feenberg-1999"
@@ -86,7 +94,11 @@ jenis = "buku"
 bahasa = "en"
 penerbit = "Routledge"
 kota = "London"
-status = "belum"
+isbn = "978-0-415-19755-7"
+status = "katalog"
+bukti = "https://www.routledge.com/Questioning-Technology/Feenberg/p/book/9780415197557"
+diperiksa = "2026-11-10"
+catatan = "Dicocokkan sendiri pada halaman bukti (halaman penerbit): judul, penerbit, tahun, dan ISBN. Kota tidak tercantum di halaman itu, jadi tidak diperiksa."
 
 [[sumber]]
 kunci = "winner-1977"
@@ -97,7 +109,9 @@ jenis = "buku"
 bahasa = "en"
 penerbit = "MIT Press"
 kota = "Cambridge, MA"
+isbn = "978-0-262-23078-0"
 status = "belum"
+catatan = "Dilaporkan Badar pada 2026-11-10 dari hasil periksa yang asal pengecekannya belum dipastikan; halaman bukti belum saya buka sendiri atau tidak memuat data bibliografis. ISBN ini hardcover 1977."
 
 [[sumber]]
 kunci = "winner-1980"
@@ -107,8 +121,11 @@ judul = "Do Artifacts Have Politics?"
 jenis = "artikel"
 bahasa = "en"
 wadah = "Daedalus"
+jilid = "109"
+nomor = "1"
+halaman = "121-136"
 status = "belum"
-catatan = "Volume dan halaman sengaja dikosongkan karena belum dicocokkan."
+catatan = "Dilaporkan Badar pada 2026-11-10 dari hasil periksa yang asal pengecekannya belum dipastikan; halaman bukti belum saya buka sendiri atau tidak memuat data bibliografis. Daedalus 109(1), Winter 1980; artikel jurnal, tanpa ISBN atau DOI (JSTOR 20024652)."
 
 [[sumber]]
 kunci = "winner-1986"
@@ -119,7 +136,11 @@ jenis = "buku"
 bahasa = "en"
 penerbit = "University of Chicago Press"
 kota = "Chicago"
-status = "belum"
+isbn = "978-0-226-90210-4"
+status = "katalog"
+bukti = "https://archive.org/details/whalereactorsear00winn"
+diperiksa = "2026-11-10"
+catatan = "Dicocokkan sendiri pada halaman bukti (katalog Internet Archive): judul, penerbit, tahun, dan ISBN. Penerbit dan kota tercantum di halaman itu."
 
 [[sumber]]
 kunci = "joerges-1999"
@@ -131,8 +152,10 @@ bahasa = "en"
 wadah = "Social Studies of Science"
 jilid = "29"
 nomor = "3"
+halaman = "411-431"
+doi = "10.1177/030631299029003004"
 status = "belum"
-catatan = "Jilid dan nomor dari ingatan penyusun, belum dicocokkan."
+catatan = "Dilaporkan Badar pada 2026-11-10 dari hasil periksa yang asal pengecekannya belum dipastikan; halaman bukti belum saya buka sendiri atau tidak memuat data bibliografis."
 
 [[sumber]]
 kunci = "gibson-1979"
@@ -143,7 +166,9 @@ jenis = "buku"
 bahasa = "en"
 penerbit = "Houghton Mifflin"
 kota = "Boston"
+isbn = "978-0-395-27049-3"
 status = "belum"
+catatan = "Dilaporkan Badar pada 2026-11-10 dari hasil periksa yang asal pengecekannya belum dipastikan; halaman bukti belum saya buka sendiri atau tidak memuat data bibliografis."
 
 [[sumber]]
 kunci = "norman-1988"
@@ -154,8 +179,11 @@ jenis = "buku"
 bahasa = "en"
 penerbit = "Basic Books"
 kota = "New York"
-status = "belum"
-catatan = "Edisi berikutnya berjudul The Design of Everyday Things."
+isbn = "978-0-465-06709-1"
+status = "katalog"
+bukti = "https://www.hachettebookgroup.com/titles/don-norman/the-psychology-of-everyday-things/9780465067091/"
+diperiksa = "2026-11-10"
+catatan = "Dicocokkan sendiri pada halaman bukti (halaman penerbit): judul, penerbit, tahun, dan ISBN. Kota tidak tercantum di halaman itu. Edisi berikutnya berjudul The Design of Everyday Things."
 
 [[sumber]]
 kunci = "latour-1999"
@@ -166,7 +194,11 @@ jenis = "buku"
 bahasa = "en"
 penerbit = "Harvard University Press"
 kota = "Cambridge, MA"
-status = "belum"
+isbn = "978-0-674-65336-8"
+status = "katalog"
+bukti = "https://www.hup.harvard.edu/books/9780674653368"
+diperiksa = "2026-11-10"
+catatan = "Dicocokkan sendiri pada halaman bukti (halaman penerbit): judul, penerbit, tahun, dan ISBN. ISBN ini edisi paperback; kota tidak tercantum di halaman itu."
 
 [[sumber]]
 kunci = "latour-2005"
@@ -177,7 +209,11 @@ jenis = "buku"
 bahasa = "en"
 penerbit = "Oxford University Press"
 kota = "Oxford"
-status = "belum"
+isbn = "978-1-383-03965-8"
+status = "katalog"
+bukti = "https://academic.oup.com/book/52349"
+diperiksa = "2026-11-10"
+catatan = "Dicocokkan sendiri pada halaman bukti (halaman penerbit): judul, penerbit, tahun, dan ISBN. ISBN ini edisi daring; ISBN cetak 978-0-19-925604-4 dilaporkan Badar tetapi belum saya buka. Kota tidak tercantum di halaman itu."
 
 [[sumber]]
 kunci = "pinch-bijker-1984"
@@ -190,8 +226,9 @@ wadah = "Social Studies of Science"
 jilid = "14"
 nomor = "3"
 halaman = "399-441"
+doi = "10.1177/030631284014003004"
 status = "belum"
-catatan = "Jilid, nomor, dan halaman dari ingatan penyusun, belum dicocokkan."
+catatan = "Dilaporkan Badar pada 2026-11-10 dari hasil periksa yang asal pengecekannya belum dipastikan; halaman bukti belum saya buka sendiri atau tidak memuat data bibliografis."
 
 [[sumber]]
 kunci = "collingridge-1980"
@@ -202,7 +239,9 @@ jenis = "buku"
 bahasa = "en"
 penerbit = "Frances Pinter"
 kota = "London"
+isbn = "978-0-903-80472-1"
 status = "belum"
+catatan = "Dilaporkan Badar pada 2026-11-10 dari hasil periksa yang asal pengecekannya belum dipastikan; halaman bukti belum saya buka sendiri atau tidak memuat data bibliografis. Ada edisi St. Martin's Press, New York (978-0-312-73168-7)."
 
 [[sumber]]
 kunci = "simondon-1958"
@@ -214,6 +253,7 @@ bahasa = "fr"
 penerbit = "Aubier"
 kota = "Paris"
 status = "belum"
+catatan = "Dilaporkan Badar pada 2026-11-10 dari hasil periksa yang asal pengecekannya belum dipastikan; halaman bukti belum saya buka sendiri atau tidak memuat data bibliografis. Edisi 1958 tidak punya ISBN; edisi Aubier 2012 berISBN 978-2-7007-0428-0."
 
 [[sumber]]
 kunci = "ellul-1964"
@@ -225,9 +265,10 @@ bahasa = "en"
 penerjemah = ["John Wilkinson"]
 penerbit = "Alfred A. Knopf"
 kota = "New York"
+isbn = "978-0-394-44803-9"
 terbit_asli = 1954
 status = "belum"
-catatan = "Terjemahan atas La Technique ou l'enjeu du siècle (1954)."
+catatan = "Halaman archive.org yang dibuka (2026-11-10) mencantumkan Vintage Books, New York, 1964, tanpa ISBN dan tanpa penerjemah; entri ini menulis Alfred A. Knopf. Penerbit dan ISBN Knopf dilaporkan Badar, belum dicocokkan. Terjemahan atas La Technique ou l'enjeu du siecle (1954)."
 
 [[sumber]]
 kunci = "kapp-1877"
@@ -239,6 +280,7 @@ bahasa = "de"
 penerbit = "George Westermann"
 kota = "Braunschweig"
 status = "belum"
+catatan = "Dilaporkan Badar pada 2026-11-10 dari hasil periksa yang asal pengecekannya belum dipastikan; halaman bukti belum saya buka sendiri atau tidak memuat data bibliografis. Edisi asli 1877 tidak punya ISBN."
 
 [[sumber]]
 kunci = "illich-1973"
@@ -249,7 +291,9 @@ jenis = "buku"
 bahasa = "en"
 penerbit = "Harper & Row"
 kota = "New York"
+isbn = "978-0-06-012138-9"
 status = "belum"
+catatan = "Dilaporkan Badar pada 2026-11-10 dari hasil periksa yang asal pengecekannya belum dipastikan; halaman bukti belum saya buka sendiri atau tidak memuat data bibliografis."
 
 [[sumber]]
 kunci = "jonas-1979"
@@ -260,7 +304,9 @@ jenis = "buku"
 bahasa = "de"
 penerbit = "Insel"
 kota = "Frankfurt am Main"
+isbn = "978-3-458-04907-4"
 status = "belum"
+catatan = "Dilaporkan Badar pada 2026-11-10 dari hasil periksa yang asal pengecekannya belum dipastikan; halaman bukti belum saya buka sendiri atau tidak memuat data bibliografis."
 
 [[sumber]]
 kunci = "ricoeur-2006"
@@ -272,6 +318,9 @@ bahasa = "en"
 penerjemah = ["Eileen Brennan"]
 penerbit = "Routledge"
 kota = "London"
+isbn = "978-0-415-35778-4"
 terbit_asli = 2004
-status = "belum"
-catatan = "Terjemahan atas Sur la traduction (2004)."
+status = "katalog"
+bukti = "https://www.routledge.com/On-Translation/Ricoeur/p/book/9780415357784"
+diperiksa = "2026-11-10"
+catatan = "Dicocokkan sendiri pada halaman penerbit (2026-11-10): judul, penerbit, dan ISBN. Tanggal rilis di halaman itu 2006-10-17, tetapi hak ciptanya tertulis 2007, jadi tahun 2006 perlu dikonfirmasi dari edisi yang dirujuk. Nama Eileen Brennan muncul di judul halaman tanpa keterangan peran; sebagai penerjemah belum dipastikan. Terjemahan atas Sur la traduction (2004)."

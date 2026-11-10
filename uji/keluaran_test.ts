@@ -92,7 +92,9 @@ Deno.test("cari tanpa kata atau tanpa hasil mengembalikan daftar kosong", () => 
 Deno.test("tampilkan menyebut status verifikasi dan padanan yang ditolak", () => {
   const e = korpus.entri.find((x) => x.id === "perangkat")!;
   const teks = tampilkan(e, korpus.pustaka);
-  assertStringIncludes(teks, "Keterandalan: belum");
+  assertStringIncludes(teks, "Keterandalan: sebagian");
+  const f = korpus.entri.find((x) => x.id === "pembingkaian")!;
+  assertStringIncludes(tampilkan(f, korpus.pustaka), "Keterandalan: belum");
   assertStringIncludes(teks, "Padanan yang ditolak");
   assertStringIncludes(teks, "isi belum dicocokkan ke teks");
 });
